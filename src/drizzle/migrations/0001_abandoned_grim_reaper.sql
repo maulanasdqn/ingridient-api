@@ -1,0 +1,1 @@
+ALTER TABLE "suppliers" ALTER COLUMN "address" SET DATA TYPE text;

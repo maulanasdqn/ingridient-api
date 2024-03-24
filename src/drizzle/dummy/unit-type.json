@@ -1,0 +1,40 @@
+{
+  "unitTypes": [
+    {
+      "name": "Pcs"
+    },
+    {
+      "name": "Kg"
+    },
+    {
+      "name": "L"
+    },
+    {
+      "name": "G"
+    },
+    {
+      "name": "Ml"
+    },
+    {
+      "name": "Cup"
+    },
+    {
+      "name": "Pack"
+    },
+    {
+      "name": "Box"
+    },
+    {
+      "name": "Roll"
+    },
+    {
+      "name": "Bottle"
+    },
+    {
+      "name": "Jar"
+    },
+    {
+      "name": "Other"
+    }
+  ]
+}

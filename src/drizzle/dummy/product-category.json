@@ -1,0 +1,16 @@
+{
+  "productCategories": [
+    {
+      "name": "Latte"
+    },
+    {
+      "name": "Cappuccino"
+    },
+    {
+      "name": "Kopi Susu"
+    },
+    {
+      "name": "Mojito"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "paymentMethods": [
+    {
+      "name": "Cash",
+      "accountName": "Cash",
+      "accountNumber": "",
+      "amount": ""
+    },
+    {
+      "name": "Dana",
+      "accountName": "Maulana",
+      "accountNumber": "085156085579",
+      "amount": ""
+    },
+    {
+      "name": "OVO",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "085156085579",
+      "amount": ""
+    },
+    {
+      "name": "Gopay",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "085156085579",
+      "amount": ""
+    },
+    {
+      "name": "LinkAja",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "085156085579",
+      "amount": ""
+    },
+    {
+      "name": "ShopeePay",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "085156085579",
+      "amount": ""
+    },
+    {
+      "name": "Bank Mandiri",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "1329897987986",
+      "amount": ""
+    },
+    {
+      "name": "Bank BCA",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "1329897987986",
+      "amount": ""
+    },
+    {
+      "name": "Bank BRI",
+      "accountName": "Maulana Sodiqin",
+      "accountNumber": "1329897987986",
+      "amount": ""
+    }
+  ]
+}

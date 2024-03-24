@@ -1,0 +1,24 @@
+{
+  "suppliers": [
+    {
+      "fullname": "PT. ABC",
+      "address": "Jl. ABC",
+      "phoneNumber": "123456789"
+    },
+    {
+      "fullname": "PT.Abusa",
+      "address": "Jl. Anajy",
+      "phoneNumber": "987654321"
+    },
+    {
+      "fullname": "PT. Kiki",
+      "address": "Jl. Sekelimus",
+      "phoneNumber": "123456789"
+    },
+    {
+      "fullname": "PT. Uhuy",
+      "address": "Jl. Margarai",
+      "phoneNumber": "987654321"
+    }
+  ]
+}

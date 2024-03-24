@@ -8,6 +8,20 @@
       "when": 1711298426967,
       "tag": "0000_marvelous_mac_gargan",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711307858044,
+      "tag": "0001_abandoned_grim_reaper",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711309158845,
+      "tag": "0002_dashing_the_fury",
+      "breakpoints": true
     }
   ]
 }

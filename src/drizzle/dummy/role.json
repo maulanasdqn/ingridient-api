@@ -1,0 +1,12 @@
+{
+  "roles": [
+    {
+      "name": "Admin",
+      "permissions": ["read-user", "read-order"]
+    },
+    {
+      "name": "User",
+      "permissions": ["read-user"]
+    }
+  ]
+}
