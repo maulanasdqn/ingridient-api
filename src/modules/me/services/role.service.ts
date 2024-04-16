@@ -25,10 +25,10 @@ export const roleService = {
         .then((res) => res.length);
 
       const totalPage = calculateTotalPages(count, perPage);
-      const nextPage = page < totalPage ? page + 1 : null;
-      const prevPage = page > 1 ? page - 1 : null;
+      const nextPage = page < totalPage ? Number(page) + 1 : null;
+      const prevPage = page > 1 ? Number(page - 1) : null;
 
-      const metaPrefix: TRoleResponse = {
+      const response: TRoleResponse = {
         data,
         meta: {
           message: "Berhasil menampilkan roles",
@@ -39,7 +39,8 @@ export const roleService = {
           prevPage,
         },
       };
-      return metaResponsePrefix(metaPrefix);
+
+      return metaResponsePrefix(response);
     } catch (err) {
       throw new Error(err as string);
     }
